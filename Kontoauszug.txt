@@ -1,0 +1,33 @@
+**************************************** Kontoauszug ****************************************
+
+Kundename: Yaroslav, Geburtsdatum: Donnerstag, 25. März 1993, Bankkontonummer: 31324075
+
+Der Nachschub war erfolgreich, 1000 EUR eingezahlt Ihrem Konto.
+Der Nachschub war erfolgreich, 200 EUR eingezahlt Ihrem Konto.
+Die Abbuchung war erfolgreich, 500 EUR wurden von Ihrem Konto abgebucht.
+Die Abbuchung war erfolgreich, 200 EUR wurden von Ihrem Konto abgebucht.
+Die Abbuchung war erfolgreich, 100 EUR wurden von Ihrem Konto abgebucht.
+Der Nachschub war erfolgreich, 1000 EUR eingezahlt Ihrem Konto.
+Die Abbuchung war erfolgreich, 500 EUR wurden von Ihrem Konto abgebucht.
+Die Abbuchung war erfolgreich, 400 EUR wurden von Ihrem Konto abgebucht.
+
+                                                                      Kontostand ist 500 EUR.
+
+**************************************** Kontoauszug ****************************************
+
+Kundename: mo, Geburtsdatum: Samstag, 2. Februar 2002, Bankkontonummer: 95815229
+
+Der Nachschub war erfolgreich, 2000 EUR eingezahlt Ihrem Konto.
+Die Abbuchung war erfolgreich, 1000 EUR wurden von Ihrem Konto abgebucht.
+
+                                                                      Kontostand ist 1000 EUR.
+
+**************************************** Kontoauszug ****************************************
+
+Kundename: Karl, Geburtsdatum: Montag, 1. Januar 2001, Bankkontonummer: 23710595
+
+Der Nachschub war erfolgreich, 2000 EUR eingezahlt Ihrem Konto.
+Die Abbuchung war erfolgreich, 300 EUR wurden von Ihrem Konto abgebucht.
+
+                                                                      Kontostand ist 1700 EUR.
+

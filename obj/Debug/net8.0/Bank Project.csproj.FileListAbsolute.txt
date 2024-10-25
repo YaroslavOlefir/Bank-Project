@@ -1,0 +1,14 @@
+C:\Users\OlefirYaroslav\source\repos\Bank Project\bin\Debug\net8.0\Bank Project.exe
+C:\Users\OlefirYaroslav\source\repos\Bank Project\bin\Debug\net8.0\Bank Project.deps.json
+C:\Users\OlefirYaroslav\source\repos\Bank Project\bin\Debug\net8.0\Bank Project.runtimeconfig.json
+C:\Users\OlefirYaroslav\source\repos\Bank Project\bin\Debug\net8.0\Bank Project.dll
+C:\Users\OlefirYaroslav\source\repos\Bank Project\bin\Debug\net8.0\Bank Project.pdb
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\Bank Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\Bank Project.AssemblyInfoInputs.cache
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\Bank Project.AssemblyInfo.cs
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\Bank Project.csproj.CoreCompileInputs.cache
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\Bank Project.dll
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\refint\Bank Project.dll
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\Bank Project.pdb
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\Bank Project.genruntimeconfig.cache
+C:\Users\OlefirYaroslav\source\repos\Bank Project\obj\Debug\net8.0\ref\Bank Project.dll
